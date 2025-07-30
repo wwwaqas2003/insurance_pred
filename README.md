@@ -143,13 +143,6 @@ Or install manually:
 pip install flask numpy pandas scikit-learn joblib
 ```
 
----
-
-## 📸 Screenshots
-
-| 📝 Input Form                          | 💬 Prediction Popup                     |
-|---------------------------------------|----------------------------------------|
-| ![](screenshots/form.png)             | ![](screenshots/popup.png)             |
 
 ---
 
