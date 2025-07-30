@@ -2,7 +2,7 @@
 
 A modern and responsive **web application** that predicts the estimated insurance cost based on user input such as age, BMI, number of children, smoker status, gender, and region. Built using **Flask**, **Random Forest Regressor**, and styled with **Bootstrap 5** for a polished frontend experience.
 
-![App Preview](assets/insurance-preview.png)
+![App Preview](preview.png)
 
 ---
 
