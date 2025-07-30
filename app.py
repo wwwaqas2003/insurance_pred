@@ -28,4 +28,5 @@ def predict():
         return render_template('index.html', prediction_text='Invalid Input. Please check your values.')
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    # Required for Railway deployment
+    app.run(host='0.0.0.0', port=5000, debug=True)
