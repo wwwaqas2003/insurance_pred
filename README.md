@@ -14,7 +14,7 @@ A modern and responsive **web application** that predicts the estimated insuranc
 - 💬 Popup-based result display with animated feedback
 - 🧠 Machine learning powered backend (`joblib` model)
 - 📊 Trained on real-world insurance dataset
-- ❤️ Footer with "Made with ❤️ by Adarsh"
+- ❤️ Footer with "Made with ❤️ by Waqas"
 
 ---
 
@@ -160,4 +160,5 @@ This project is open-source under the [MIT License](LICENSE).
 
 ## ❤️ Footer
 
-> Made with ❤️ by **Adarsh Paswan**
+> Made with ❤️ by **Waqas Jamal Siddiqui**
+
